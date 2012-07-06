@@ -1,4 +1,4 @@
-noscript-textcontent
-====================
+noscript tag innerHTML polyfill
+===============================
 
-oscript textcontent polyfill for all browsers
+A Polyfill to allow access to the markup inside a NOSCRIPT tag in IE8 and below
